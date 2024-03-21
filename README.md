@@ -16,7 +16,8 @@ Steps:
 3. Run npm run seed from command line.
 4. Run node server.js.
 
-Demo goes here
+[![Video Demo](https://img.youtube.com/vi/NfPi9b71VE8/0.jpg)](https://youtu.be/NfPi9b71VE8)
+
 
 ## License 
 
