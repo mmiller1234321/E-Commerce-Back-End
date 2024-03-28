@@ -1,5 +1,7 @@
 # E Commerce Back End
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
 ## Description
 
 Users can manage products, tags, and catagories for e-commerce. User can get, add, update, and delete data.
@@ -16,13 +18,31 @@ Steps:
 3. Run npm run seed from command line.
 4. Run node server.js.
 
-<video width="320" height="240" controls>
-  <source src="C:\Users\senat\Downloads\Untitled_ Mar 28, 2024 11_07 AM (1).webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[Usage Demo](https://drive.google.com/file/d/1U2CtRCTNO045wxT5U9Fsd-Tz2ziINq7D/view?usp=sharing)
 
 
+## Testing
+
+N/A
 
 ## License 
 
 MIT
+
+## Credits
+
+Starter files for this project were provided by the Northwestern Full-Stack Web Development Bootcamp 
+
+[Node.js](https://nodejs.org/en)
+
+[NPM](https://www.npmjs.com/)
+
+[Express.js](https://expressjs.com/)
+
+[PostgreSQL](https://www.postgresql.org/)
+
+[Sequelize](https://sequelize.org/)
+
+[pg](https://www.npmjs.com/package/pg)
+
+[dotenv](https://www.npmjs.com/package/dotenv)
