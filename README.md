@@ -16,7 +16,11 @@ Steps:
 3. Run npm run seed from command line.
 4. Run node server.js.
 
-[![Video Demo](https://img.youtube.com/vi/NfPi9b71VE8/0.jpg)](https://youtu.be/NfPi9b71VE8)
+<video width="320" height="240" controls>
+  <source src="C:\Users\senat\Downloads\Untitled_ Mar 28, 2024 11_07 AM (1).webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## License 
